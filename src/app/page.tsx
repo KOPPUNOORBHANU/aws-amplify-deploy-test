@@ -38,6 +38,9 @@ export default function Home() {
           priority
         />
       </div>
+      <div className="relative z-[-1] flex place-items-center font-medium text-lg">
+        Next Js Application Deployment using AWS Amplify or AWS ECS
+      </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
         <a
